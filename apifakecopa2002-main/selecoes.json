@@ -1,0 +1,210 @@
+﻿[
+	{
+		"grupo": "A",
+		"cor": "#2C5C6B",
+		"selecoes": [
+			{
+				"selecao": "Dinamarca",
+				"sigla": "DIN",
+				"imagem": "din"
+			},
+			{
+				"selecao": "Senegal",
+				"sigla": "SEN",
+				"imagem": "sen"	
+			},
+			{
+				"selecao": "Uruguai",
+				"sigla": "URU",
+				"imagem": "uru"
+			},
+			{
+				"selecao": "França",
+				"sigla": "FRA",
+				"imagem": "fra"
+			}
+		]
+	},
+	{
+		"grupo": "B",
+		"cor": "#7DDFD2",
+		"selecoes": [
+			{
+				"selecao": "Espanha",
+				"sigla": "ESP",
+				"imagem": "esp"
+			},
+			{
+				"selecao": "Paraguai",
+				"sigla": "IRL",
+				"imagem": "par"
+			},
+			{
+				"selecao": "Africa do Sul",
+				"sigla": "AFS",
+				"imagem": "afs"
+			},
+			{
+				"selecao": "Eslovenia",
+				"sigla": "ESL",
+				"imagem": "esl"
+			}
+		]
+	},
+	{
+		"grupo": "C",
+		"cor": "#ECB3CB",
+		"selecoes": [
+			{
+				"selecao": "Brasil",
+				"sigla": "BRA",
+				"imagem": "bra"
+			},
+			{
+				"selecao": "Turquia",
+				"sigla": "TUR",
+				"imagem": "tur"
+			},
+			{
+				"selecao": "Costa Rica",
+				"sigla": "CRC",
+				"imagem": "crc"
+			},
+			{
+				"selecao": "China",
+				"sigla": "CHI",
+				"imagem": "chi"
+			}
+		]
+	},
+	{
+		"grupo": "D",
+		"cor": "#F22688",
+		"selecoes": [
+			{
+				"selecao": "Coreia do Sul",
+				"sigla": "KOR",
+				"imagem": "kor"
+			},
+			{
+				"selecao": "Estados Unidos",
+				"sigla": "EUA",
+				"imagem": "eua"
+			},
+			{
+				"selecao": "Portugal",
+				"sigla": "POR",
+				"imagem": "por"
+			},
+			{
+				"selecao": "Polonia",
+				"sigla": "POL",
+				"imagem": "pol"
+			}
+		]
+	},
+	{
+		"grupo": "E",
+		"cor": "#00968D",
+		"selecoes": [
+			{
+				"selecao": "Alemanha",
+				"sigla": "ALE",
+				"imagem": "ale"
+			},
+			{
+				"selecao": "Irlanda",
+				"sigla": "IRL",
+				"imagem": "irl"
+			},
+			{
+				"selecao": "Camaroes",
+				"sigla": "CAM",
+				"imagem": "cam"
+			},
+			{
+				"selecao": "Arabia Saudita",
+				"sigla": "SA",
+				"imagem": "ara"
+			}
+		]
+	},
+	{
+		"grupo": "F",
+		"cor": "#78D64B",
+		"selecoes": [
+			{
+				"selecao": "Suecia",
+				"sigla": "SUE",
+				"imagem": "sue"
+			},
+			{
+				"selecao": "Inglaterra",
+				"sigla": "ING",
+				"imagem": "ing"
+			},
+			{
+				"selecao": "Argentina",
+				"sigla": "ARG",
+				"imagem": "arg"
+			},
+			{
+				"selecao": "Nigeria",
+				"sigla": "NIG",
+				"imagem": "nig"
+			}
+		]
+	},
+	{
+		"grupo": "G",
+		"cor": "#FFA02F",
+		"selecoes": [
+			{
+				"selecao": "Mexico",
+				"sigla": "MEX",
+				"imagem": "mex"
+			},
+			{
+				"selecao": "Croacia",
+				"sigla": "CRO",
+				"imagem": "cro"
+			},
+			{
+				"selecao": "Itália",
+				"sigla": "ITA",
+				"imagem": "ita"
+			},
+			{
+				"selecao": "Equador",
+				"sigla": "EQU",
+				"imagem": "equ"
+			}
+		]
+	},
+	{
+		"grupo": "H",
+		"cor": "#FE5211",
+		"selecoes": [
+			{
+				"selecao": "Japao",
+				"sigla": "JAP",
+				"imagem": "jap"
+			},
+			{
+				"selecao": "Belgica",
+				"sigla": "BEL",
+				"imagem": "bel"
+			},
+			{
+				"selecao": "Russia",
+				"sigla": "RUS",
+				"imagem": "rus"
+			},
+			{
+				"selecao": "Tunisia",
+				"sigla": "TUN",
+				"imagem": "tun"
+			}
+		]
+	}
+]
